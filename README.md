@@ -18,6 +18,7 @@ Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dimzkuy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+![snake gif](https://github.com/dimzkuy/dimzkuy/blob/output/github-snake-dark.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=dimzkuy&icon=0&color=0)](https://visitcount.itsvg.in)
 
