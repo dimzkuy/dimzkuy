@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/A7vPsKccr7sAAAAC/konata-good-job.gif" alt="Konata Good Job GIF">
+  <img src="https://media1.tenor.com/m/A7vPsKccr7sAAAAC/konata-good-job.gif" alt="Konata Good Job GIF" width="400">
 </p>
 
 # 💫 About Me:
