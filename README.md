@@ -1,3 +1,4 @@
+![Konata Good Job](https://media1.tenor.com/m/A7vPsKccr7sAAAAC/konata-good-job.gif)
 # 💫 About Me:
 Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th semester of Telkom University Purwokerto, majoring in Software Engineering.🎓<br>I also have an interest in cyber security and have a little bit of experience in that area.<br>Feel Free to Connect with me!😊
 
