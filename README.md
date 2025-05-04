@@ -26,4 +26,5 @@ Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th
 ---
 [![](https://visitcount.itsvg.in/api?id=dimzkuy&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31n4mms4k47ttb7a2fpu2jliyzlm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31n4mms4k47ttb7a2fpu2jliyzlm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
