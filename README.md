@@ -1,6 +1,9 @@
-![Konata Good Job](https://media1.tenor.com/m/A7vPsKccr7sAAAAC/konata-good-job.gif)
+<p align="center">
+  <img src="https://media1.tenor.com/m/A7vPsKccr7sAAAAC/konata-good-job.gif" alt="Konata Good Job GIF">
+</p>
+
 # 💫 About Me:
-Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th semester of Telkom University Purwokerto, majoring in Software Engineering.🎓<br>I also have an interest in cyber security and have a little bit of experience in that area.<br>Feel Free to Connect with me!😊
+Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th semester of Telkom University Purwokerto, majoring in Software Engineering.🎓<br>I also have an interest in cybersecurity and have a little bit of experience in that area.<br>Feel Free to connect with me!😊
 
 
 ## 🌐 Socials:
