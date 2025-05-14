@@ -5,6 +5,10 @@
 # 💫 About Me:
 Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th semester of Telkom University Purwokerto, majoring in Software Engineering.🎓<br>I also have an interest in cybersecurity and have a little bit of experience in that area.<br>Feel Free to connect with me!😊
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dimzkuy&style=for-the-badge" alt="Profile views"/>
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/instagram.svg)](https://www.instagram.com/dmzmrgno)
