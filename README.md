@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/A7vPsKccr7sAAAAC/konata-good-job.gif" alt="Konata Good Job GIF" width="400">
 </p>
 
-# 💫 About Me:
+# 💫 About Me
 Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th semester of Telkom University Purwokerto, majoring in Software Engineering.🎓<br>I also have an interest in cybersecurity and have a little bit of experience in that area.<br>Feel Free to connect with me!😊
 
 <div align="center">
@@ -10,17 +10,17 @@ Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th
 </div>
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg)](https://www.instagram.com/dmzmrgno)
 [![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitter-x.svg)](https://x.com/dimzkuyy_)
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/dimascahyomargono/)
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/spotify.svg)](https://open.spotify.com/user/31n4mms4k47ttb7a2fpu2jliyzlm)
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,bootstrap,nodejs,flutter,dart,debian,gcp,git,nextjs,react,postman,vscode)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=dimzkuy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dimzkuy&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimzkuy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
