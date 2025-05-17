@@ -11,10 +11,10 @@ Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th
 
 
 ## 🌐 Socials
-[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg)](https://www.instagram.com/dmzmrgno)
-[![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitter-x.svg)](https://x.com/dimzkuyy_)
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/dimascahyomargono/)
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/spotify.svg)](https://open.spotify.com/user/31n4mms4k47ttb7a2fpu2jliyzlm)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dmzmrgno)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/dimzkuyy_)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimascahyomargono/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31n4mms4k47ttb7a2fpu2jliyzlm)
 
 
 # 💻 Tech Stack
