@@ -21,9 +21,11 @@ Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,bootstrap,nodejs,flutter,dart,debian,gcp,git,nextjs,react,postman,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dimzkuy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dimzkuy&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimzkuy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimzkuy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="400" style="margin-right: 10px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dimzkuy&theme=tokyonight&hide_border=false" width="440" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimzkuy&theme=tokyonight&hide_border=false&layout=compact" width="300" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dimzkuy&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -33,8 +35,12 @@ Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dimzkuy&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dimzkuy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<h3 align="center">🔝 Top Contributed Repo</h3>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=dimzkuy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="350" />
+</p>
+
 
 ![snake gif](https://github.com/dimzkuy/dimzkuy/blob/output/github-snake-dark.svg)
 ---
