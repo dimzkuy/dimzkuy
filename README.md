@@ -38,7 +38,7 @@ Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th
 <h3 align="center">🔝 Top Contributed Repo</h3>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=dimzkuy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="350" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=dimzkuy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </p>
 
 
