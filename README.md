@@ -18,7 +18,7 @@ Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th
 
 
 # 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,bootstrap,nodejs,flutter,dart,debian,gcp,git,nextjs,react,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,py,bootstrap,nodejs,flutter,dart,debian,gcp,git,nextjs,postman,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats
 <p align="center">
