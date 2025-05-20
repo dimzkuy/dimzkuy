@@ -46,7 +46,7 @@ Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th
 ---
 [![](https://visitcount.itsvg.in/api?id=dimzkuy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🎵 Now Playing
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31n4mms4k47ttb7a2fpu2jliyzlm&unique={true|1|on|yes})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31n4mms4k47ttb7a2fpu2jliyzlm&count=1)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
