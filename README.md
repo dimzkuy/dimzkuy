@@ -48,6 +48,10 @@ Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th
 [![](https://visitcount.itsvg.in/api?id=dimzkuy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31n4mms4k47ttb7a2fpu2jliyzlm&count=1)
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n4mms4k47ttb7a2fpu2jliyzlm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n4mms4k47ttb7a2fpu2jliyzlm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=6232d2&bar_color_cover=false" alt="spotify-github-profile">
+  </a>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
