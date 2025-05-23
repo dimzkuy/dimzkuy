@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/A7vPsKccr7sAAAAC/konata-good-job.gif" alt="Konata Good Job GIF" width="400">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=28&duration=4000&pause=500&color=F8F8F8&center=true&vCenter=true&random=true&width=480&lines=Hi!+I'm+Dimas+Cahyo+Margono" alt="Typing SVG" />
+</a>
 </p>
 
+
 # 💫 About Me
-Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th semester of Telkom University Purwokerto, majoring in Software Engineering.🎓<br>I also have an interest in cybersecurity and have a little bit of experience in that area.<br>Feel Free to connect with me!😊
+Currently, I am a student in the 6th semester of Telkom University Purwokerto, majoring in Software Engineering.🎓<br>I also have an interest in cybersecurity and have a little bit of experience in that area.<br>Feel Free to connect with me!😊
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dimzkuy&style=for-the-badge" alt="Profile views"/>
@@ -47,7 +50,7 @@ Hi! 👋, My Name is Dimas Cahyo Margono<br>Currently, I am a student in the 6th
 ---
 [![](https://visitcount.itsvg.in/api?id=dimzkuy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+# 🌐 Now Playing on Spotify
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n4mms4k47ttb7a2fpu2jliyzlm&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n4mms4k47ttb7a2fpu2jliyzlm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=6232d2&bar_color_cover=false" alt="spotify-github-profile">
