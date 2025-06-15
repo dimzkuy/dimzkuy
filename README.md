@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/img/short-intro.json.png" alt="Business Card" width="600"/>
+<img src="/img/short-intro.png" alt="Business Card" width="600"/>
 <p align="center">
 
 <div align="center">
