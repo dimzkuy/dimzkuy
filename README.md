@@ -1,12 +1,6 @@
 <p align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=28&duration=4000&pause=500&color=7AC6D2&center=true&vCenter=true&random=true&width=480&lines=Hi!+I'm+Dimas+Cahyo+Margono" alt="Typing SVG" />
-</a>
-</p>
-
-
-# 💫 About Me
-Currently, I am a student in the 6th semester of Telkom University Purwokerto, majoring in Software Engineering.🎓<br>I also have an interest in cybersecurity and have a little bit of experience in that area.<br>Feel Free to connect with me!😊
+<img src="/img/short-intro.json.png" alt="Business Card" width="600"/>
+<p align="center">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dimzkuy&style=for-the-badge" alt="Profile views"/>
