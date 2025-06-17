@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=24&pause=1000&color=DCF718&center=true&vCenter=true&width=435&lines=Hi!+I'm+Dimas+Cahyo+Margono;I'm+a+Student;I'm+a+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Hi!+I'm+Dimas+Cahyo+Margono;I'm+a+Student;I'm+a+Software+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,6 +28,12 @@ Let’s build something awesome together. Feel free to connect with me and share
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=dimzkuy&style=for-the-badge&color=orange&abbreviated=true" alt="Profile views"/>
+
+</div>
 
 
 <h2 align="center">Tech Stack</h2>
