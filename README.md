@@ -57,6 +57,12 @@ Let’s build something awesome together. Feel free to connect with me and share
 
 [![Dimas' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dimzkuy&theme=elegant&custom_title=My%20Contributions%20All-Day%20Long)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dimzkuy/dimzkuy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dimzkuy/dimzkuy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dimzkuy/dimzkuy/output/pacman-contribution-graph.svg">
+</picture>
+
 <h2 align="center">Top Contributed Repo</h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=dimzkuy&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" alt="Top Contributed Repo Stats" />
