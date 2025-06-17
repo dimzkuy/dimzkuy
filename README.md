@@ -27,13 +27,11 @@ Let’s build something awesome together. Feel free to connect with me and share
   <a href="https://open.spotify.com/user/31n4mms4k47ttb7a2fpu2jliyzlm" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
+    <img src="https://komarev.com/ghpvc/?username=dimzkuy&style=for-the-badge&color=orange&abbreviated=true" alt="Profile views"/>
 </p>
 
-<div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=dimzkuy&style=for-the-badge&color=orange&abbreviated=true" alt="Profile views"/>
 
-</div>
 
 
 <h2 align="center">Tech Stack</h2>
