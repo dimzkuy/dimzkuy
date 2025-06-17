@@ -55,8 +55,9 @@ Let’s build something awesome together. Feel free to connect with me and share
   <img src="https://github-profile-trophy.vercel.app/?username=dimzkuy&theme=juicyfresh&row=1&column=9" />
 </p>
 
-<h2 align="center">Top Contributed Repo</h2>
+[![Dimas' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dimzkuy&theme=elegant&custom_title=My%20Contributions%20All-Day%20Long)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<h2 align="center">Top Contributed Repo</h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=dimzkuy&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" alt="Top Contributed Repo Stats" />
 </p>
