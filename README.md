@@ -61,11 +61,9 @@ Let’s build something awesome together. Feel free to connect with me and share
   <img src="https://github-contributor-stats.vercel.app/api?username=dimzkuy&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" alt="Top Contributed Repo Stats" />
 </p>
 
-
 <h2 align="center">Vibin' on Spotify</h2>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n4mms4k47ttb7a2fpu2jliyzlm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n4mms4k47ttb7a2fpu2jliyzlm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=c19090&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n4mms4k47ttb7a2fpu2jliyzlm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false&bar_color=ffa500" alt="Spotify Now Playing" width="400"/>
   </a>
 </p>
-
