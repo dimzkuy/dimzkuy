@@ -4,8 +4,15 @@
   </a>
 </p>
 
-## About Me
-Hey there! I'm Dimas Cahyo Margono<br>I'm a Software Engineering student at Telkom University, Purwokerto, passionate about building cool things on the web and figuring out how things work under the hood.<br>Whether it's crafting smooth user experiences, diving into the world of cybersecurity, or geeking out over network protocols. <br><br>Outside of code, you’ll probably find me just vibing with good music and gaming.<br>I believe tech is more than just code—it’s about curiosity, creativity, and community.<br>Let’s build something awesome together. Feel free to connect with me!
+<h2 align="center">About Me</h2>
+
+Hey there! I'm Dimas Cahyo Margono  
+I'm a Software Engineering student at Telkom University, Purwokerto, passionate about building cool things on the web and figuring out how things work under the hood.  
+Whether it's crafting smooth user experiences, diving into the world of cybersecurity, or geeking out over network protocols and system internals.  
+
+Outside of code, you’ll probably find me just vibing with good music, gaming, or exploring random rabbit holes on the internet.  
+I believe tech is more than just code—it’s about curiosity, creativity, and community-driven innovation.  
+Let’s build something awesome together. Feel free to connect with me and share cool ideas or projects!
 
 <p align="center">
   <a href="https://instagram.com/dmzmrgno" target="_blank">
@@ -42,14 +49,14 @@ Hey there! I'm Dimas Cahyo Margono<br>I'm a Software Engineering student at Telk
   <img src="https://github-profile-trophy.vercel.app/?username=dimzkuy&theme=juicyfresh&row=1&column=9" />
 </p>
 
-<h2 align="center">🔥 Top Contributed Repo</h2>
+<h2 align="center">Top Contributed Repo</h2>
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=dimzkuy&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" alt="Top Contributed Repo Stats" />
 </p>
 
 
-<h3 align="center">Vibin' on Spotify</h3>
+<h2 align="center">Vibin' on Spotify</h2>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n4mms4k47ttb7a2fpu2jliyzlm&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n4mms4k47ttb7a2fpu2jliyzlm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=c19090&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
