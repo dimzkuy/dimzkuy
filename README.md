@@ -40,8 +40,8 @@ Let’s build something awesome together. Feel free to connect with me and share
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dimzkuy&show_icons=true&theme=codeSTACKr" width="320" style="margin-right: 12px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimzkuy&theme=codeSTACKr" width="320" style="margin-right: 12px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimzkuy&layout=compact&theme=codeSTACKr" width="320" />
+  <img src="https://github-readme-streak-orcin.vercel.app?user=dimzkuy&theme=codestackr" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimzkuy&layout=compact&theme=codeSTACKr" width="240" />
 </p>
 
 <h2 align="center">GitHub Trophies</h2>
