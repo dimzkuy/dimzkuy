@@ -30,14 +30,10 @@ Let’s build something awesome together. Feel free to connect with me and share
     <img src="https://komarev.com/ghpvc/?username=dimzkuy&style=for-the-badge&color=orange&abbreviated=true" alt="Profile views"/>
 </p>
 
-
-
-
-
 <h2 align="center">Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,python,gcp,nextjs,nodejs,postman,figma,git,github,debian,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,tailwind,python,flutter,dart,debian,gcp,nextjs,nodejs,postman,figma,git,github,debian,vscode" />
   </a>
 </p>
 
