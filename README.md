@@ -44,7 +44,7 @@ Let’s build something awesome together. Feel free to connect with me and share
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimzkuy&layout=compact&theme=codeSTACKr" width="240" />
 </p>
 
-<h2 align="center">GitHub Trophies</h2>
+<h2 align="center">GitHub Trophies & Activities</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dimzkuy&theme=juicyfresh&row=1&column=9" />
 </p>
