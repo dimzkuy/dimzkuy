@@ -46,7 +46,7 @@ Let’s build something awesome together. Feel free to connect with me and share
 
 <h2 align="center">GitHub Trophies & Activities</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dimzkuy&theme=juicyfresh&row=1&column=9" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dimzkuy&theme=juicyfresh&column=9&margin-w=10" />
 </p>
 
 [![Dimas' Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dimzkuy&theme=elegant&custom_title=My%20Contributions%20All-Day%20Long)](https://github.com/ashutosh00710/github-readme-activity-graph)
